@@ -120,9 +120,9 @@ jQuery("#null-null").click(function() {
     jQuery("#tabsik-2 .tabl-2").removeClass("active");
     jQuery("#tabsik-1 .tabl-1").removeClass("active");
     jQuery("#tabsik .tabl").removeClass("active");
-    jQuery("#lamin").attr("src", "/img/lam/simple-lam.png");
-    jQuery("#gless").attr("src", "/img/gless/simple-gless.png");
-    jQuery("#plenka").attr("src", "/img/plenka/simple.png")
+    jQuery("#lamin").attr("src", "./img/lam/simple-lam.png");
+    jQuery("#gless").attr("src", "./img/gless/simple-gless.png");
+    jQuery("#plenka").attr("src", "./img/plenka/simple.png")
 });
 
 (function($) {
