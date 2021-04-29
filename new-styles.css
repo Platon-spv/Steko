@@ -538,6 +538,7 @@ ul {
 
 
 .video_preview-wrapper a {
+    
     display: block;
     font-style: normal;
     font-family: Montserrat, sans-serif;
@@ -545,6 +546,7 @@ ul {
     line-height: 28px;
     color: #1E407F;
     font-weight: bold;
+    text-align: center;
 }
 
 .video-preview-text>.contact-phone {
